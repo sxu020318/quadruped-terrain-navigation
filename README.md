@@ -20,3 +20,10 @@ https://unsw-my.sharepoint.com/:f:/g/personal/z5530899_ad_unsw_edu_au/IgCzHniuR7
 
 Before running `main1.m`, update `plyFile` and `robotModelFolder` near the
 start of the script to match your local folders.
+
+## Required setup
+
+MATLAB R2025b
+Computer Vision Toolbox
+Image Processing Toolbox
+Optimization Toolbox
